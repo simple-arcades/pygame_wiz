@@ -1,0 +1,53 @@
+Arcade Use & Disclaimer
+
+1. Legal Ownership of Game Backups
+
+You acknowledge and confirm that you personally own or hold the appropriate license(s) for each ROM or image included with this arcade. You agree
+to use these ROM/backups exclusively for lawful, personal backup purposes. You shall not rent, lease, redistribute, or profit from these files in
+any manner. Simple Arcades does not supply or transfer any license or copyright regarding game ROMs. All ROM backups are provided in good faith
+as a digital backup for legally owned games.
+
+2. Copyright & Intellectual Property
+
+Any unauthorized duplication, distribution, or public display of these digital backups is strictly prohibited. If you believe a file infringes on
+your intellectual property rights, please see our DMCA policy or contact support@simple-arcades.com for prompt resolution.
+
+3. Hardware, Safety & Mounting
+
+This arcade is provided as is. Simple Arcades is not liable for any damage or data loss arising from normal or improper usage, accidents, or
+negligence. Always ensure correct power supply and keep the arcade away from liquids or extreme temperatures. Wall-Hanger Models: If you choose
+to hang an arcade on a wall, you are solely responsible for using proper mounting hardware, anchoring techniques, and installation following local
+guidelines or professional advice. Simple Arcades cannot be held responsible for injury or property damage resulting from improper or unsafe wall
+mounting.
+
+4. Software & Functionality
+
+Simple Arcades does not guarantee that every included ROM or emulator will function perfectly or be error-free. Compatibility may vary across
+titles. Modifications or additions (e.g., custom emulators) beyond the default system are at your own risk and may void existing support coverage.
+
+5. Limitations of Liability
+
+In no event shall Simple Arcades be liable for incidental, consequential, or indirect damages related to using or misusing this arcade system. You
+assume all responsibility for your own hardware or data modifications. Simple Arcades is not liable for injuries or accidents that may occur while
+operating or transporting the arcade.
+
+6. Maintenance & Service
+
+You are responsible for routine upkeep (e.g., dusting, minor cleaning) to keep the arcade in proper working condition. Unauthorized or third-party
+repairs, or significant modifications, may void any implied warranty or support.
+
+7. Indemnification
+
+You agree to indemnify, defend, and hold Simple Arcades harmless from any third-party claims arising out of your use of the arcade, including
+misuse of ROM backups or hardware modifications.
+
+8. No Representation of Completeness
+
+Simple Arcades makes no guarantee regarding the completeness or accuracy of any software, ROM, or game image. All data is provided as is and may
+contain errors, bugs, or omissions.
+
+9. Acknowledgment & Acceptance
+
+By scrolling through and clicking I Agree, you affirm you have read, understood, and accept all the terms listed herin.
+
+If you do not agree with any provision, you must immediately discontinue using the arcade and may not proceed to the next step.
